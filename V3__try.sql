@@ -5,3 +5,6 @@ insert into person values (5,'newBranchAfterCommit');
 insert into person values (6,'newBranchAfterCommit6');
 insert into person values (7,'newBranchAfterCommit7');
 insert into person values (8,'newBranchAfterCommit8');
+insert into person values (9,'newBranchAfterCommit6');
+insert into person values (10,'newBranchAfterCommit7');
+insert into person values (11,'newBranchAfterCommit8');

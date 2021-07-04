@@ -8,3 +8,5 @@ insert into person values (8,'newBranchAfterCommit8');
 insert into person values (9,'newBranchAfterCommit6');
 insert into person values (10,'newBranchAfterCommit7');
 insert into person values (11,'newBranchAfterCommit8');
+insert into person values (12,'newBranchAfterCommit7');
+insert into person values (13,'newBranchAfterCommit8');

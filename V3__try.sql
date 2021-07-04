@@ -1,4 +1,4 @@
-insert into person values (2,'TRY')
+insert into person values (2,'TRY');
 insert into person values (3,'TRY2');
 insert into person values (4,'newBranch');
 insert into person values (5,'newBranchAfterCommit');
@@ -9,4 +9,7 @@ insert into person values (9,'newBranchAfterCommit6');
 insert into person values (10,'newBranchAfterCommit7');
 insert into person values (11,'newBranchAfterCommit8');
 insert into person values (12,'newBranchAfterCommit7');
-insert into person values (13,'newBranchAfterCommit8');
+insert into person values (13,'newBranchAfterCommit13');
+insert into person values (14,'newBranch');
+insert into person values (15,'newBranchAfterCommit15');
+insert into person values (16,'newBranchAfterCommit16');
